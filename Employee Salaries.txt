@@ -10,7 +10,7 @@ Lidiah	 $123,694
 Lynner	 $93,934 
 Meganb	 $99,726 
 Miriamg	 $192,831 
-Nestorw	 $57,327 
+Nestorw	 90,00000 
 Pattif	 $4,511,840 
 Pradeepg	 $94,884 
 Kevstrat	$35,015
